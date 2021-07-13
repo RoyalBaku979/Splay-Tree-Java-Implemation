@@ -1,0 +1,14 @@
+
+s	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ฐช๚ÿÿÿÿ8ิตþถ/
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(่งเนýÿÿÿÿ8ิตþถ/
+t
+java:S3776}"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(บๅฬิüÿÿÿÿ8ฯส’ฉ•/
+b	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(ฮก 8ิตþถ/
+n	java:S117ื"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ณใกว8ิตþถ/
+o	java:S100}"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(บๅฬิüÿÿÿÿ8ฯส’ฉ•/
+V
+java:S1854ฤ"8Remove this useless assignment to local variable "node".(คณ็ๆ8ิตþถ/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(่งเนýÿÿÿÿ8ิตþถ/
+b	java:S112U"FDefine and throw a dedicated exception instead of using a generic one.(ฮก 8ิตþถ/
+[	java:S106๖"9Replace this use of System.out or System.err by a logger.(่งเนýÿÿÿÿ8ิตþถ/
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ป์ฬะ๙ÿÿÿÿ8ิตþถ/
